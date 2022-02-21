@@ -8,3 +8,5 @@ maka kartu lainnya akan bergeser sesuai kondisi pemindahan kartu tersebut.
 
 Selection Sort merupakan kombinasi antara sorting dan searching. Metode ini sangat sederhana karena setiap proses 
 akan dicari elemen-elemen yang belum diurutkan yang terkecil (ascending) atau terbesar (descending) yang akan ditukarkan ke posisi yang tepat di dalam array.
+
+cc: https://www.materipelajaran.web.id/2017/05/macam-macam-sorting-pada-bahasa-c.html
